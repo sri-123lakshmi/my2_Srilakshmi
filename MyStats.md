@@ -16,3 +16,11 @@ I am Srilakshmi Arthimalla. I completed my Undergraduation in the stream of Comp
 |Carroms            |Increse Concentration  |     4       |
 |Chess              |Increase IQ            |     7       |
 |Cricket            |Mind Refresh           |     5       |
+
+-------------------------------------------------------------------------------
+
+# Pithy Quotes
+
+
+> " Simplicity is the ultimate sophistication" - *Leonardo da Vinci*
+> " The journey of a thousand miles begins with one step" - *Lao Tzu*
