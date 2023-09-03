@@ -16,3 +16,4 @@ Goa is famous for beaches.Moreover it **hasmultipleoptions** for entertainment
 *Fried Fish
 *Chicken curry
 *Vegetarian dishes
+![MyStats.md](https://github.com/sri-123lakshmi/my2_Srilakshmi/assets/143051198/17a57950-2b17-44f3-94da-6f9978bd57e9)
