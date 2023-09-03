@@ -4,3 +4,15 @@ I am Srilakshmi Arthimalla. I completed my Undergraduation in the stream of Comp
 
 ![Sri](https://github.com/sri-123lakshmi/my2_Srilakshmi/assets/143051198/17a57950-2b17-44f3-94da-6f9978bd57e9)
 
+-------------------------------------------------------------------------------
+
+# Sports Table
+
+ four different games that i am interested in
+
+|Game Name          | Reason                |  Hours/Week |
+|------------------ |---------------------  | ------------|
+|Badminton          |Reduce belly fat       |     5       |
+|Carroms            |Increse Concentration  |     4       |
+|Chess              |Increase IQ            |     7       |
+|Cricket            |Mind Refresh           |     5       |
