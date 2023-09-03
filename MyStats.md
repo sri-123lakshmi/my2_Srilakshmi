@@ -24,3 +24,20 @@ I am Srilakshmi Arthimalla. I completed my Undergraduation in the stream of Comp
 
 > " Simplicity is the ultimate sophistication" - *Leonardo da Vinci*
 > " The journey of a thousand miles begins with one step" - *Lao Tzu*
+
+--------------------------------------------------------------------------------
+# Code Fencing
+I want to truncate a text or line with ellipsis using JavaScript 
+[Stack Overflow]
+> https://stackoverflow.com/questions/4700226/i-want-to-truncate-a-text-or-line-with-ellipsis-using-javascript
+
+```
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+```
+[Css Snippet]
+> https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/
