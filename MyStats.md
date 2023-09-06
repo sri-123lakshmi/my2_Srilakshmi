@@ -23,6 +23,7 @@ I am Srilakshmi Arthimalla. I completed my Undergraduation in the stream of Comp
 
 
 > " Simplicity is the ultimate sophistication" - *Leonardo da Vinci*
+
 > " The journey of a thousand miles begins with one step" - *Lao Tzu*
 
 --------------------------------------------------------------------------------
